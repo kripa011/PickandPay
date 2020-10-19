@@ -26,7 +26,7 @@ class LoginScreen extends StatelessWidget{
               mainAxisAlignment: MainAxisAlignment.center,
               crossAxisAlignment: CrossAxisAlignment.stretch,
               children: <Widget> [
-                Image.asset("assets/images/3.png", height: 100, width: 130,),
+                Image.asset("assets/images/3.png", height: 200, width: 200,),
                 SizedBox(height:20,),
                 TextField(
                   style: TextStyle(fontSize: 18, color:Colors.black54),
